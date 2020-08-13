@@ -1,0 +1,10 @@
+C:\Users\aselanb\source\repos\HorseRace\HorseRace\bin\Debug\HorseRace.exe.config
+C:\Users\aselanb\source\repos\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\aselanb\source\repos\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\aselanb\source\repos\HorseRace\HorseRace\obj\Debug\HorseRace.csprojAssemblyReference.cache
+C:\Users\aselanb\source\repos\HorseRace\HorseRace\obj\Debug\HorseRace.Form1.resources
+C:\Users\aselanb\source\repos\HorseRace\HorseRace\obj\Debug\HorseRace.Properties.Resources.resources
+C:\Users\aselanb\source\repos\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.GenerateResource.cache
+C:\Users\aselanb\source\repos\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\aselanb\source\repos\HorseRace\HorseRace\obj\Debug\HorseRace.exe
+C:\Users\aselanb\source\repos\HorseRace\HorseRace\obj\Debug\HorseRace.pdb
